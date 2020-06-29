@@ -1,4 +1,4 @@
-# police-brutality
+# police-encounters
 
 ![police](images/police.jpeg)
 
