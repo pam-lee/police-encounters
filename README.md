@@ -1,4 +1,4 @@
-# police-encounters
+# Digital Humanities Project
 
 ![police](images/police.jpeg)
 
