@@ -1,5 +1,5 @@
 # Digital Humanities Project
-![police](images/police.jpeg)
+![police](images/police.jpg)
 
 ### Group Abstract: Boundaries in the Digital Humanities
 
