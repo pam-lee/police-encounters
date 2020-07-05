@@ -1,0 +1,499 @@
+id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera
+5344,Derrick A. Elseth,1/1/20,shot,gun,24,M,W,Richmond County,VA,FALSE,other,Not fleeing,FALSE
+5347,Teddy James Maverick Varner,1/1/20,shot,gun,29,M,,Central Point,OR,TRUE,attack,Not fleeing,TRUE
+5403,Gerardo Antonio Conchas-Bustas,1/1/20,shot,knife,20,M,O,Denver,CO,FALSE,attack,Not fleeing,TRUE
+5342,Gabriel Strickland,1/1/20,shot and Tasered,toy weapon,25,M,W,Grass Valley,CA,TRUE,attack,Not fleeing,FALSE
+5339,Jeffery Dale Millsap,1/2/20,shot,gun,26,M,W,Holt,MO,FALSE,attack,Car,FALSE
+5348,Stanley Hayes,1/2/20,shot,gun,69,M,,Hillsboro,OR,TRUE,attack,Not fleeing,FALSE
+5349,Jamari Daiwon Tarver,1/2/20,shot,vehicle,26,M,B,North Las Vegas,NV,FALSE,attack,Car,TRUE
+5350,Troy Sullenger,1/2/20,shot,gun,41,M,W,Murrieta,CA,FALSE,attack,Car,TRUE
+5405,Mariano Ocon,1/2/20,shot,gun,31,M,H,Chicago,IL,FALSE,attack,Foot,FALSE
+5340,Michael Gregory,1/2/20,shot and Tasered,knife,30,M,H,Ansonia,CT,FALSE,attack,Not fleeing,TRUE
+5341,Tyree Davis,1/4/20,shot and Tasered,knife,25,M,B,Chicago,IL,FALSE,other,Not fleeing,FALSE
+5334,George Dison,1/5/20,shot,gun,57,M,W,Elkmont,AL,FALSE,attack,Not fleeing,FALSE
+5335,Kwamae Jones,1/5/20,shot,gun,17,M,B,Jacksonville,FL,FALSE,attack,Car,FALSE
+5336,Brandon D. Roberts,1/5/20,shot,knife,27,M,B,Milford,DE,TRUE,other,Not fleeing,FALSE
+5338,Drew Nichols Wallas-Flores,1/5/20,shot,gun,30,M,H,Lubbock,TX,FALSE,attack,Foot,FALSE
+5352,Miciah Lee,1/5/20,shot,gun,18,M,B,Sparks,NV,TRUE,other,Car,FALSE
+5337,Samuel Lanham,1/5/20,shot and Tasered,knife,50,M,W,Oklahoma City,OK,FALSE,other,Not fleeing,FALSE
+5351,Troy Chase Caster,1/6/20,shot,gun,21,M,W,Asheboro,NC,FALSE,attack,Car,FALSE
+5353,Xavier Jaime Rovie,1/6/20,shot,gun,28,M,H,Phoenix,AZ,FALSE,attack,Foot,FALSE
+5354,Orlando Abeyta,1/6/20,shot,gun,28,M,H,Albuquerque,NM,FALSE,other,Not fleeing,FALSE
+5355,Nico Descheenie,1/6/20,shot,gun,25,M,,Aurora,CO,FALSE,other,Car,FALSE
+5356,Dallas Pearce,1/6/20,shot,toy weapon,33,M,A,Honolulu,HI,FALSE,other,Not fleeing,FALSE
+5357,Daniel Duane Jensen,1/7/20,shot,gun,59,M,W,North Pole,AK,FALSE,attack,Not fleeing,FALSE
+5361,Dustin M. Eaton,1/8/20,shot,gun,34,M,W,Bismarck,MO,FALSE,attack,Not fleeing,FALSE
+5498,Madison Adams,1/8/20,shot,gun,27,M,,Nipton,CA,TRUE,attack,Car,FALSE
+5362,Earl Facey,1/9/20,shot,gun,37,M,B,New York,NY,FALSE,attack,Foot,TRUE
+5364,Cody Carnes,1/9/20,shot,gun,30,M,W,Bismarck,ND,TRUE,attack,Not fleeing,FALSE
+5499,Joshua Franklin Roberts,1/9/20,shot,gun,41,M,,Powatan Point,OH,FALSE,other,Car,FALSE
+5571,Claude Fain,1/9/20,shot,gun,47,M,B,Philadelphia,PA,TRUE,attack,Not fleeing,FALSE
+5360,Bernie Wade Johnson,1/9/20,shot and Tasered,hammer,34,M,W,Semmes,AL,TRUE,attack,Not fleeing,FALSE
+5365,Juan Ayon-Ruiz,1/10/20,shot,vehicle,24,M,H,Muscoy,CA,FALSE,attack,Car,FALSE
+5363,Clando Anitok,1/10/20,shot and Tasered,unarmed,25,M,A,Spokane,WA,FALSE,other,Car,FALSE
+5366,Eric Reynolds,1/11/20,shot,unknown weapon,,M,W,Glenwood Springs,CO,FALSE,other,Car,FALSE
+5501,Henry Isaac Jones,1/11/20,shot,gun,47,M,B,Bainbridge,GA,FALSE,attack,Not fleeing,FALSE
+5369,Ryan O. Simms,1/11/20,shot and Tasered,knife,49,M,B,Miami Beach,FL,FALSE,attack,,FALSE
+5367,Victor Valencia,1/12/20,shot,toy weapon,31,M,H,Los Angeles,CA,TRUE,attack,,FALSE
+5368,Brad Stirewalt,1/12/20,shot,gun,47,M,W,Carthage,MO,FALSE,attack,Car,FALSE
+5370,Thomas Charles Snyder,1/12/20,shot,gun,52,M,W,Lakewood,CO,FALSE,other,Not fleeing,FALSE
+5371,Keenan McCain,1/13/20,shot,gun,29,M,B,Gary,IN,FALSE,attack,Not fleeing,FALSE
+5372,Randy Glen Goodale,1/13/20,shot,vehicle,45,M,W,San Antonio,TX,FALSE,attack,Not fleeing,FALSE
+5373,Eliezer Perez,1/14/20,shot,knife,51,M,H,The Villages,FL,FALSE,attack,Not fleeing,FALSE
+5378,Renard Antonio Daniels,1/15/20,shot,knife,55,M,B,Cocoa,FL,FALSE,attack,Not fleeing,TRUE
+5379,Frank Cogar,1/15/20,shot,gun,35,M,W,Missoula,MT,FALSE,other,Not fleeing,FALSE
+5382,Landwell Vance McCall,1/15/20,shot,gun,50,M,W,Fleetwood,NC,FALSE,attack,Not fleeing,FALSE
+5503,Aaron Phillips,1/15/20,shot,gun,31,M,W,Mulberry,FL,FALSE,other,Not fleeing,FALSE
+5375,Albert Lee Hughes,1/15/20,shot and Tasered,chair,47,M,B,Lawrenceville,GA,FALSE,attack,Not fleeing,FALSE
+5380,Jack Bolinger,1/16/20,shot,gun,35,M,W,Wausau,WI,FALSE,attack,,FALSE
+5381,Owen Barton,1/16/20,shot,gun,66,M,W,Yerington,NV,FALSE,other,Not fleeing,FALSE
+5377,Murbarak Soulemane,1/16/20,shot and Tasered,knife,19,M,B,West Haven,CT,FALSE,other,Car,TRUE
+5376,Samuel David Mallard,1/17/20,shot,undetermined,19,M,B,Powder Springs,GA,FALSE,undetermined,Car,FALSE
+5406,Dustin Alexander Nealis,1/19/20,shot,unknown weapon,43,M,W,Sebring,FL,FALSE,undetermined,Not fleeing,FALSE
+5386,Edward Gendron,1/20/20,shot,gun,57,M,W,Waterbury,CT,FALSE,attack,Not fleeing,FALSE
+5389,Miguel Mercado Segura,1/20/20,shot,gun,31,M,H,Fountain Valley,CA,FALSE,other,Foot,FALSE
+5391,Jonathan David Messare,1/20/20,shot,machete,41,M,W,Sedona,AZ,FALSE,other,Not fleeing,FALSE
+5394,Dustin Furr,1/20/20,shot,gun,39,M,W,Lafayette,IN,FALSE,other,Not fleeing,FALSE
+5383,Anthony Langley,1/21/20,shot,gun,24,M,W,Atkins,AR,FALSE,attack,Foot,FALSE
+5407,Reginald Leon Boston,1/21/20,shot,gun,20,M,B,Jacksonville,FL,FALSE,other,Foot,FALSE
+5408,Rory Behling,1/21/20,shot,gun,32,M,W,Fox Crossing,WI,FALSE,other,Not fleeing,FALSE
+5385,Darius J. Tarver,1/21/20,shot and Tasered,meat cleaver,22,M,B,Denton,TX,TRUE,attack,Not fleeing,FALSE
+5387,Sok Chin Son,1/21/20,shot and Tasered,knife,60,M,A,Lacey,WA,FALSE,attack,Not fleeing,FALSE
+5432,Jon Phillip Bryant,1/22/20,shot,knife,40,M,W,Arvada,CO,FALSE,other,Not fleeing,FALSE
+5508,Armando Moreno Garcia,1/22/20,shot,gun,37,M,H,Mesa,AZ,FALSE,attack,,FALSE
+5570,Adam Ray Hernandez,1/22/20,shot,undetermined,34,M,W,Moore,OK,FALSE,other,Car,FALSE
+5429,Deandre Lee Seaborough-Patterson,1/23/20,shot,gun,22,M,B,Savannah,GA,FALSE,other,Foot,FALSE
+5430,James Lewis Mathis,1/23/20,shot,knife,30,M,W,Paris,TX,FALSE,other,,FALSE
+5431,Gage Scott Southard,1/23/20,shot,gun,26,M,W,Wasilla,AK,FALSE,attack,Car,FALSE
+5433,Marquis Golden,1/23/20,shot,gun,29,M,B,St. Petersburg,FL,FALSE,attack,Car,FALSE
+5506,Andrew Smyrna,1/23/20,shot,vehicle,32,M,B,Atlanta,GA,FALSE,attack,Car,FALSE
+5507,Michael Rivera,1/23/20,shot,vehicle,32,M,B,Bloomingdale,NJ,FALSE,attack,Car,FALSE
+5427,Scott Joseph Weber,1/24/20,shot,gun,27,M,W,San Angelo,TX,FALSE,attack,Other,FALSE
+5428,Toby Diller,1/24/20,shot,gun,31,M,H,Oak Park,CA,FALSE,attack,Foot,TRUE
+5436,Rebecca Angel Alexander,1/24/20,shot,gun,35,F,W,Coden,AL,TRUE,attack,Not fleeing,FALSE
+5425,D'ovion Semaj Perkins,1/25/20,shot,gun,19,M,B,Aurora,CO,FALSE,other,Car,FALSE
+5426,Joshua James Brown,1/25/20,shot,gun,34,M,B,Columbus,OH,FALSE,other,Foot,FALSE
+5424,Kevin Alan Smallman,1/27/20,shot,vehicle,32,M,W,Chandler,AZ,FALSE,attack,Car,FALSE
+5434,William Howard Green,1/27/20,shot,unarmed,43,M,B,Temple Hills,MD,FALSE,attack,Not fleeing,FALSE
+5435,Aaron T. Booker,1/27/20,shot,gun,22,M,B,Aiken,SC,FALSE,attack,Not fleeing,FALSE
+5505,John Francis Tippett,1/27/20,shot,gun,43,M,W,Lexington Park,MD,TRUE,attack,Not fleeing,FALSE
+5440,Joshua Greenleaf,1/28/20,shot,knife,27,M,W,Scottsdale,AZ,TRUE,attack,Not fleeing,FALSE
+5442,Robert Cocio,1/28/20,shot,gun,39,M,H,Tuscson,AZ,FALSE,attack,Not fleeing,FALSE
+5569,Jonathan Bentley,1/28/20,shot,vehicle,37,M,W,Shelby Gap,KY,FALSE,attack,Not fleeing,FALSE
+5441,Jaquyn Oneill Light,1/29/20,shot,undetermined,20,M,B,Graham,NC,FALSE,undetermined,Foot,FALSE
+5500,Clint Stevens,1/29/20,shot,gun,34,M,W,Deposit,NY,TRUE,attack,Not fleeing,FALSE
+5502,Justin Leman,1/29/20,shot,gun,32,M,W,Kasilof,AK,FALSE,attack,Foot,FALSE
+5443,Chad Nicolia,1/30/20,shot,gun,41,M,,Hockingport,OH,FALSE,attack,Not fleeing,FALSE
+5456,Abdirahman Salad,1/30/20,shot,gun,15,M,B,Columbus,OH,FALSE,attack,Not fleeing,FALSE
+5457,Keith Dutree Collins,1/30/20,shot,toy weapon,52,M,B,Raleigh,NC,FALSE,attack,Foot,TRUE
+5504,Richard Davis,1/30/20,shot,gun,29,M,,Kansas City,MO,FALSE,attack,Foot,FALSE
+5493,Leonard Parker,2/1/20,shot,vehicle,53,M,B,Gulfport,MS,FALSE,other,Not fleeing,FALSE
+5497,Vincent Conti,2/1/20,shot,gun,24,M,W,Spring Hill,FL,FALSE,attack,Not fleeing,FALSE
+5566,Ronnell Mouzon,2/1/20,shot,gun,41,M,B,Fort Myers,FL,FALSE,attack,Not fleeing,FALSE
+5495,Alvin Cole,2/2/20,shot,gun,17,M,B,Wauwatosa,WI,FALSE,attack,Foot,FALSE
+5496,Jason Gora,2/2/20,shot,vehicle and gun,44,M,W,Minot,ME,FALSE,attack,Foot,FALSE
+5567,Chris Cadotte,2/2/20,shot,knife,63,M,,Yuma,AZ,FALSE,other,Not fleeing,FALSE
+5494,Marc Dominic Neal,2/3/20,shot,gun,56,M,B,Millcreek,UT,FALSE,other,Not fleeing,FALSE
+5513,Darius Tarver,2/4/20,shot,meat cleaver,23,M,B,Denton,TX,FALSE,other,Not fleeing,FALSE
+5516,Shawn Michael Taylor,2/4/20,shot,gun,32,M,W,Allen,OK,FALSE,attack,Foot,FALSE
+5563,Dominique Antwon Anderson,2/4/20,shot,machete,26,M,B,Home Garden,CA,FALSE,attack,Not fleeing,FALSE
+5564,Thomas Barbosa,2/4/20,shot,knife,41,M,W,Ono,CA,TRUE,other,Car,FALSE
+5523,Daniel Murillo,2/5/20,shot,knife,56,M,W,Washoe,NV,FALSE,other,Not fleeing,FALSE
+5565,Gaston A. Nava-Saucedo,2/5/20,shot,vehicle,33,M,H,Topeka,KS,FALSE,attack,Car,FALSE
+5512,Sean Patrick Constance,2/6/20,shot,gun,37,M,W,Port Charlotte,FL,FALSE,attack,Car,FALSE
+5514,Juston Root,2/7/20,shot,gun,41,M,W,Brookline,MA,TRUE,attack,Car,FALSE
+5524,Michael Collins,2/7/20,shot,knife,38,M,W,Sapulpa,OK,TRUE,other,Not fleeing,FALSE
+5562,Joshua Downing,2/7/20,shot,gun,32,M,,Kansas City,MO,FALSE,attack,Not fleeing,FALSE
+5518,Douglas Harold Hart,2/8/20,shot,gun,67,M,W,Vestavia Hills,AL,FALSE,attack,Not fleeing,FALSE
+5522,TK TK,2/8/20,shot,gun,,M,,Cuba,MO,FALSE,attack,Not fleeing,FALSE
+5517,Gordon Whitaker,2/9/20,shot,gun,45,M,W,Kennewick,WA,FALSE,attack,Foot,FALSE
+5519,Erik Robinson,2/9/20,shot,knife,23,M,,Orange County,FL,FALSE,other,Not fleeing,FALSE
+5520,Zane Blaisdell,2/9/20,shot,knife,48,M,W,Saginaw,MI,FALSE,attack,Not fleeing,FALSE
+5521,Jeremy Grayson,2/9/20,shot,gun,31,M,B,Chicago,IL,FALSE,attack,Foot,FALSE
+5561,Michael Leatherwood,2/9/20,shot,gun,47,M,W,Byron,GA,FALSE,attack,Not fleeing,FALSE
+5527,Bobby Gibbs,2/10/20,shot,gun,40,M,B,Forrest City,AR,FALSE,attack,Not fleeing,FALSE
+5529,Jeremy Todd Baham,2/10/20,shot,gun,40,M,W,Lafayette,LA,FALSE,other,Not fleeing,FALSE
+5530,Thomas Ray Chamblee,2/10/20,shot,gun,34,M,W,Albertville,AL,FALSE,attack,Other,TRUE
+5525,Hans Alejandro Huitz,2/12/20,shot,gun,51,M,N,Virginia Beach,VA,FALSE,attack,Not fleeing,FALSE
+5526,Michael Marullo,2/12/20,shot,gun,33,M,W,Baltimore,MD,FALSE,attack,Not fleeing,FALSE
+5538,Jeremey Fox,2/12/20,shot,undetermined,42,M,,Bossier City,LA,FALSE,other,Not fleeing,TRUE
+5528,Dakota Lee Chlarson,2/13/20,shot,scissors,25,M,N,Dickinson,ND,FALSE,attack,Not fleeing,FALSE
+5546,Brian Francis Filion,2/13/20,shot,gun,41,M,W,Salt Lake City,UT,FALSE,other,Foot,FALSE
+5549,Aaron Marcos Valdez,2/13/20,shot,gun,19,M,H,Amarillo,TX,FALSE,attack,Not fleeing,FALSE
+5550,Abel Lopez-Lopez,2/13/20,shot,undetermined,37,M,,Sparks,NV,FALSE,undetermined,Not fleeing,FALSE
+5535,William Bluestone,2/14/20,shot,gun,21,M,H,Silverton,OR,FALSE,other,Not fleeing,TRUE
+5539,David Kent Heeke,2/14/20,shot,gun,63,M,W,Commerce City,CO,TRUE,other,Car,FALSE
+5547,Christopher Gutierrez,2/14/20,shot,knife,,M,H,Rialto,CA,FALSE,other,Not fleeing,FALSE
+5548,Timothy Leroy Harrington,2/14/20,shot,gun,58,M,W,Polkton,NC,FALSE,attack,Car,FALSE
+5536,Daelyn Polu,2/15/20,shot,gun,16,M,A,Anchorage,AK,FALSE,attack,Not fleeing,FALSE
+5532,Thomas Murray,2/16/20,shot,vehicle,31,M,W,Newbury,MA,FALSE,attack,Car,FALSE
+5533,Kerry Michael Bounsom,2/16/20,shot,gun,33,M,A,Long Beach,CA,FALSE,attack,Foot,FALSE
+5545,Rudy Arenas,2/16/20,shot,gun,40,M,H,Poinciana,FL,FALSE,attack,Car,FALSE
+5575,Brandon Lewis,2/16/20,shot,gun,34,M,W,Harrison County,IN,FALSE,attack,Car,FALSE
+5534,Travis Mullins,2/17/20,shot,gun,29,M,W,Greenville,TN,FALSE,attack,Not fleeing,FALSE
+5560,Jeremy Dewey,2/17/20,shot,gun,27,M,N,Pinetop,AZ,FALSE,attack,Not fleeing,FALSE
+5531,Kevin Adolphe,2/18/20,shot,gun,23,M,B,Orlando,FL,FALSE,other,Foot,FALSE
+5542,Alex Francisco Vazquez,2/19/20,shot,gun,38,M,H,Red Bluff,CA,FALSE,attack,Not fleeing,FALSE
+5556,Joseph Jewell,2/20/20,shot,gun,17,M,B,Columbus,OH,FALSE,attack,Not fleeing,FALSE
+5557,John Daniel Dixon,2/20/20,shot,gun,75,M,W,DeKalb County,GA,FALSE,other,Not fleeing,FALSE
+5554,John James Monahan,2/21/20,shot,gun,26,M,,Lake Lanier,GA,FALSE,attack,Car,FALSE
+5555,Manuel Arebalo,2/21/20,shot,sharp object,40,M,H,Arvada,CO,FALSE,other,Not fleeing,FALSE
+5558,TK TK,2/21/20,shot,gun,,M,,Old Mines,MO,TRUE,other,Not fleeing,FALSE
+5559,TK TK,2/21/20,shot,unarmed,,F,,Phoenix,AZ,FALSE,attack,Not fleeing,FALSE
+5553,Rodrigo Ivan Aguirre,2/22/20,shot,gun,36,M,H,Deming,NM,FALSE,attack,Other,FALSE
+5551,Boyce Melvin Thayer,2/23/20,shot,gun,83,M,,Jamestown,NC,FALSE,attack,Not fleeing,FALSE
+5552,Lucas Alvarado,2/24/20,shot,gun,27,M,W,Milwaukee,WI,FALSE,other,Foot,FALSE
+5574,Print Zutavern,2/24/20,shot,gun,28,M,W,Arnold,NE,TRUE,other,Not fleeing,FALSE
+5576,Stephen O'Brien,2/24/20,shot,unarmed,20,M,W,Floresville,TX,TRUE,other,Not fleeing,FALSE
+5573,Kenneth Sashington,2/25/20,shot,gun,38,M,B,Tuscumbia,AL,FALSE,attack,Foot,FALSE
+5589,SanJuan Migayle Thomas,2/25/20,shot,gun,39,M,,Shreveport,LA,FALSE,attack,Not fleeing,FALSE
+5590,Matthew Felix,2/25/20,shot,vehicle,19,M,,New York,NY,FALSE,attack,Car,FALSE
+5591,Neal Stuart Nevada,2/25/20,shot,knife,23,M,,Pocatello,ID,FALSE,other,Car,FALSE
+5592,Dylan Olmeda,2/25/20,shot,gun,16,M,W,Georgetown,TX,FALSE,attack,Not fleeing,FALSE
+5602,TK TK,2/25/20,shot,undetermined,,M,,Brea,CA,FALSE,undetermined,,FALSE
+5603,Terry Hasty,2/25/20,shot,gun,56,M,,Dalzell,SC,FALSE,attack,Not fleeing,FALSE
+5588,David William Irving,2/26/20,shot,undetermined,35,M,,Kansas City,MO,FALSE,undetermined,,FALSE
+5593,Justin Lee Stackhouse,2/26/20,shot,vehicle,30,M,B,Bradenton,FL,FALSE,attack,Car,FALSE
+5595,Ramiro Carrasco,2/26/20,shot,gun,30,M,H,Greeley,CO,FALSE,other,Not fleeing,FALSE
+5596,James Thomson,2/26/20,shot,gun,30,M,W,Tahlequah,OK,FALSE,attack,Car,FALSE
+5597,William Resto,2/26/20,shot,knife,54,M,,Sylvania Township,OH,FALSE,other,Not fleeing,FALSE
+5604,TK TK,2/26/20,shot,unarmed,,M,,Garden Grove,CA,FALSE,attack,,TRUE
+5578,Kent Richard Kruger,2/27/20,shot,gun,36,M,W,Lakeville,MN,TRUE,attack,Not fleeing,FALSE
+5579,Joshua David Hernandez Lord,2/27/20,shot,knife,33,M,W,Clarkdale,AZ,FALSE,other,,FALSE
+5594,Dorgel Cisnero-Mesa,2/27/20,shot,gun,39,M,H,Jacksonville,FL,TRUE,attack,,FALSE
+5586,Jose L. Rivera,2/28/20,shot,gun,22,M,H,Moses Lake,WA,FALSE,attack,Other,FALSE
+5580,Anthony Taylor,2/29/20,shot,gun,49,M,B,Milwaukee,WI,FALSE,other,,FALSE
+5585,Richard Rodriguez,2/29/20,shot,gun,45,M,H,San Antonio,TX,FALSE,attack,Not fleeing,FALSE
+5587,Stephen Douris,2/29/20,shot,knife,45,M,W,Henderson,NV,FALSE,other,Not fleeing,FALSE
+5577,Joshua Russell,3/1/20,shot,gun,30,M,W,Pueblo,CO,FALSE,attack,Car,FALSE
+5581,Raymundo Aaron Ceja,3/1/20,shot,gun,30,M,H,Santa Clarita,CA,FALSE,other,Not fleeing,FALSE
+5582,TK TK,3/1/20,shot,gun,,M,,Santa Ana,CA,FALSE,other,,FALSE
+5583,TK TK,3/1/20,shot,gun,,M,,Cloverleaf,TX,TRUE,attack,Not fleeing,FALSE
+5584,Ian Austin Wilson,3/1/20,shot,gun,31,M,W,Mocksville,NC,FALSE,attack,,FALSE
+5600,Cody Hodges,3/2/20,shot,toy weapon,34,M,,Keithville,LA,TRUE,attack,Not fleeing,FALSE
+5601,Terry Cagle,3/2/20,shot,BB gun,73,M,W,Sherman,TX,FALSE,attack,Car,FALSE
+5598,Jose Antonio Gainza,3/3/20,shot,knife,49,M,,Miami-Dade,FL,FALSE,other,Not fleeing,FALSE
+5607,Ryan Bass,3/3/20,shot,gun,39,M,W,Riverside,WA,FALSE,attack,,FALSE
+5605,Christopher Palmer,3/4/20,shot,unarmed,37,M,W,Manila,AR,FALSE,attack,Not fleeing,FALSE
+5612,Gary Lee Tierney,3/4/20,shot,gun,73,M,,Fayetteville,NC,FALSE,attack,Not fleeing,FALSE
+5606,Gene Beasley,3/5/20,shot,gun,,M,W,Ariton,AL,FALSE,other,Car,FALSE
+5613,Ajay Kamil Ayseli,3/5/20,shot,knife,31,M,O,Henrico,VA,FALSE,attack,Not fleeing,FALSE
+5656,Elijah Jamaal Brewer,3/5/20,shot,gun,25,M,B,Pittsburgh,PA,FALSE,attack,Not fleeing,FALSE
+5616,Jacob Frausto,3/6/20,shot,gun,41,M,,Tucson,AZ,TRUE,attack,Not fleeing,FALSE
+5619,Tyler M. Jones,3/6/20,shot,gun,24,M,B,Fairfield,OH,FALSE,other,Not fleeing,FALSE
+5620,Barry Gedeus,3/6/20,shot,unarmed,27,M,B,Fort Lauderdale,FL,FALSE,attack,Foot,FALSE
+5621,Jerry Gaghins,3/6/20,shot,knife,,M,W,Tulsa,OK,FALSE,attack,Not fleeing,FALSE
+5657,Kenneth Mullins,3/6/20,shot,unarmed,32,M,W,Edison,CA,FALSE,attack,Not fleeing,FALSE
+5610,Matthew Adam Miller,3/7/20,shot,knife,33,M,,Stroudsburg,PA,FALSE,other,Not fleeing,FALSE
+5618,Gary Brown,3/7/20,shot,vehicle,43,M,W,Harrison Township,OH,FALSE,attack,Car,FALSE
+5608,Charles Harwood,3/8/20,shot,gun,65,M,,Montgomery,AL,FALSE,attack,Not fleeing,FALSE
+5609,Lawson Edward Schaber,3/8/20,shot,gun,84,M,W,Apache Junction,AZ,FALSE,attack,Not fleeing,FALSE
+5614,Desiree Nicole Garza,3/8/20,shot,knife,29,F,H,Torrance,CA,FALSE,other,Not fleeing,FALSE
+5615,Brian Marksberry,3/8/20,shot,unarmed,31,M,W,Humble,TX,FALSE,other,Foot,FALSE
+5617,Keith P. Haux,3/8/20,shot,gun,57,M,W,Backus,MN,FALSE,other,Not fleeing,FALSE
+5623,Aaron Tolen,3/8/20,shot,unarmed,37,M,W,Wasilla,AK,FALSE,attack,Not fleeing,FALSE
+5622,Jennifer Taylor,3/9/20,shot,gun,29,F,W,Dinuba,CA,FALSE,attack,Not fleeing,FALSE
+5633,Jesus Bonito Garcia,3/9/20,shot,screwdriver,47,M,H,Elmendorf,TX,FALSE,other,,FALSE
+5659,Pablo Elias,3/10/20,shot,unarmed,44,M,H,Bell Gardens,CA,TRUE,undetermined,,FALSE
+5660,Joshua Christopher Noles,3/11/20,shot,gun,38,M,W,Elkton,FL,FALSE,attack,Car,FALSE
+5661,Mary Kate Field,3/11/20,shot,gun,32,F,W,Anchor Point,AK,FALSE,attack,,FALSE
+5626,Breonna Taylor,3/12/20,shot,unarmed,26,F,B,Louisville,KY,FALSE,undetermined,Not fleeing,FALSE
+5662,Duncan Socrates Lemp,3/12/20,shot,gun,21,M,W,Potomac,MD,FALSE,attack,Not fleeing,TRUE
+5663,Donnie Sanders,3/12/20,shot,unarmed,47,M,B,Kansas City,MO,FALSE,undetermined,Foot,FALSE
+5628,Jorge Martinez,3/13/20,shot,undetermined,30,M,H,Claremore,OK,FALSE,attack,Foot,FALSE
+5635,Marc Morgan,3/13/20,shot,gun,62,M,W,New Kensington,PA,FALSE,attack,,FALSE
+5654,Rosario Angel Alvarado,3/13/20,shot,toy weapon,41,M,H,Chandler,AZ,FALSE,attack,Not fleeing,FALSE
+5664,Dung Nguyen,3/13/20,shot,gun,50,M,A,Garland,TX,FALSE,attack,Not fleeing,FALSE
+5665,Christopher Mullins,3/13/20,shot,knife,,M,W,Mufreesboro,TN,FALSE,other,Not fleeing,FALSE
+5627,TK TK,3/14/20,shot,vehicle,48,M,,Cocoa,FL,FALSE,attack,Car,FALSE
+5629,Jeremiah Medina,3/14/20,shot,gun,31,M,H,Taos,NM,FALSE,attack,Car,FALSE
+5630,Justin Griggs,3/14/20,shot,gun,30,M,W,Louisville,KY,FALSE,attack,Foot,TRUE
+5631,Chase Brooks,3/14/20,shot,undetermined,32,M,W,Springfield,OR,FALSE,attack,Not fleeing,FALSE
+5632,Rory Edwin Murray,3/14/20,shot,gun,30,M,,Lodi,CA,FALSE,attack,Car,FALSE
+5634,Jesse Cadillo,3/14/20,shot,gun,20,M,W,Pueblo,CO,FALSE,attack,Foot,FALSE
+5624,Michael Brandon Potter,3/15/20,shot,gun,38,M,W,High Point,NC,FALSE,attack,,FALSE
+5625,Catherine Gomez,3/15/20,shot,knife,25,F,H,Long Beach,CA,FALSE,attack,Not fleeing,FALSE
+5640,Douglas J. Foster,3/15/20,shot,gun,47,M,W,Lewistown,MT,FALSE,attack,Car,FALSE
+5666,Dakota Yancey,3/15/20,shot,gun,19,M,W,Chase City,VA,FALSE,other,Car,FALSE
+5636,Darwin Foy,3/16/20,shot,gun,35,M,B,Webster City,IA,FALSE,attack,Not fleeing,FALSE
+5637,Juanito Ovalle,3/16/20,shot,machete,58,M,H,San Antonio,TX,FALSE,other,Not fleeing,FALSE
+5638,TK TK,3/16/20,shot,gun,,M,,Miami,FL,TRUE,attack,Other,FALSE
+5639,Dakota Wayne Yancey,3/16/20,shot,gun,18,M,W,Mecklenburg,VA,FALSE,attack,,FALSE
+5655,Marvin O'Reilly,3/16/20,shot,undetermined,55,M,,Tucson,AZ,FALSE,undetermined,Foot,FALSE
+5709,Charity Thorne,3/16/20,shot,vehicle,42,F,W,Myerstown,PA,FALSE,attack,Car,FALSE
+5711,William Simpkins,3/17/20,shot,gun,39,M,B,Atlanta,GA,FALSE,attack,Foot,FALSE
+5651,Harold Spencer,3/18/20,shot,gun,61,M,B,Iota,LA,FALSE,other,,FALSE
+5653,Steven Alire,3/18/20,shot,gun,51,M,W,Orchard Mesa,CO,FALSE,other,Foot,FALSE
+5652,Lebarron Ballard,3/18/20,shot and Tasered,knife,28,M,B,Abilene,TX,FALSE,attack,Foot,FALSE
+5643,Kyle Anthony Eichler,3/19/20,shot,unknown weapon,33,M,W,Wheeling,MO,FALSE,undetermined,,FALSE
+5650,Charles Parker,3/19/20,shot and Tasered,knife,47,M,W,Port Jervis,NY,TRUE,other,Not fleeing,FALSE
+5646,Larry Millraney,3/20/20,shot,gun,39,M,W,Franklin County,TN,FALSE,attack,Car,FALSE
+5647,Mycael Johnson,3/20/20,shot,unarmed,31,M,B,Tallahassee,FL,FALSE,attack,Other,FALSE
+5648,Kamall Koby Edwards,3/20/20,shot,gun,18,M,B,Cuthbert,GA,FALSE,attack,Foot,FALSE
+5649,Alvin Lamont Baum,3/20/20,shot,gun,23,M,B,Virginia Beach,VA,FALSE,attack,Not fleeing,FALSE
+5644,Israel Lucas,3/21/20,shot,undetermined,30,M,,Mojave,CA,FALSE,attack,,FALSE
+5645,Bryan Pena,3/21/20,shot,unknown weapon,28,M,,Taylorsville,UT,FALSE,other,Other,FALSE
+5641,Gerald Johnson,3/22/20,shot,toy weapon,55,M,,Sacramento,CA,FALSE,attack,Not fleeing,TRUE
+5642,Carlos Delgado,3/23/20,shot,pick-axe,46,M,H,San Antonio,TX,FALSE,attack,Not fleeing,FALSE
+5683,Charles Edward Marsh,3/23/20,shot,gun,50,M,W,Mojave,CA,FALSE,attack,Not fleeing,FALSE
+5684,Michael Wallace,3/24/20,shot,gun,34,M,W,Schenectady,NY,TRUE,attack,Not fleeing,FALSE
+5685,Kathryn R. Hale,3/24/20,shot,vehicle,32,F,W,Shelton,WA,FALSE,attack,Car,FALSE
+5686,Christopher Joel Mock,3/24/20,shot,gun,45,M,W,WInston Salem,NC,FALSE,attack,Car,FALSE
+5687,Maurico Hernandez,3/24/20,shot,gun,31,M,H,El Paso,TX,FALSE,attack,Car,FALSE
+5688,Matthew Moore,3/25/20,shot,gun,19,M,W,Pahrump,NV,FALSE,attack,Not fleeing,TRUE
+5689,Glenn A. White,3/25/20,shot,knife,53,M,W,London,AR,TRUE,other,Not fleeing,FALSE
+5717,Deanna Marie Owsianiak,3/26/20,shot,gun,55,F,W,Ormond Beach,FL,FALSE,attack,Not fleeing,FALSE
+5719,John Mark Hendrick,3/26/20,shot,unarmed,32,M,W,Linwood,NC,FALSE,other,Car,FALSE
+5692,Robert Harman Sword,3/27/20,shot,gun,46,M,W,Buchanan,VA,TRUE,attack,Not fleeing,FALSE
+5693,Tyrell Fincher,3/27/20,shot,gun,26,M,B,Newburgh,NY,FALSE,attack,,TRUE
+5694,TK TK,3/27/20,shot,gun,,M,,Lehigh Acres,FL,FALSE,attack,Foot,FALSE
+5721,William Patrick Floyd,3/27/20,shot,gun,51,M,,Salem,OR,FALSE,other,,FALSE
+5695,Thomas Owens,3/28/20,shot,gun,49,M,,Gray,KY,FALSE,attack,Not fleeing,FALSE
+5696,Shane Farwell,3/28/20,shot,gun,46,M,W,Caldwell,ID,FALSE,attack,Not fleeing,FALSE
+5697,Jacob  Emry Mcilveen,3/29/20,shot,gun,22,M,W,Phoenix,AZ,TRUE,attack,Not fleeing,FALSE
+5698,Etonne Tanzymore,3/30/20,shot,gun,38,M,B,Baltimore,MD,FALSE,attack,Not fleeing,TRUE
+5699,Jessie Stringfield,3/30/20,shot,gun,44,M,W,Louisville,KY,FALSE,attack,Not fleeing,TRUE
+5700,Anthony Eduardo Pacheco,3/31/20,shot,sword,37,M,H,Pomona,CA,FALSE,other,Not fleeing,FALSE
+5701,Valente Acosta-Bustillos,3/31/20,shot,shovel,52,M,H,Albuquerque,NM,TRUE,other,Not fleeing,FALSE
+5702,Shane Tilman Kent,3/31/20,shot,gun,29,M,W,Asheville,NC,FALSE,attack,Not fleeing,FALSE
+5703,John H. Ross,3/31/20,shot,gun and car,29,M,,Hinton,VA,FALSE,attack,Car,FALSE
+5705,TK TK,3/31/20,shot,knife,,,,Burkesville,KY,FALSE,attack,Car,FALSE
+5704,Austin Hines,4/1/20,shot,gun and vehicle,19,M,W,Columbus,MS,FALSE,attack,Car,FALSE
+5706,Nathan R. Hodge,4/2/20,shot,gun,66,M,B,Ouachita Parish,LA,FALSE,attack,Not fleeing,FALSE
+5707,David A. Xanatos,4/2/20,shot,knife,40,M,W,Lincoln CIty,OR,FALSE,other,Not fleeing,FALSE
+5710,Jose Moreno,4/2/20,shot,Taser,30,M,H,Mesa,AZ,FALSE,attack,Other,FALSE
+5712,Joseph Zahaczewski,4/2/20,shot,gun,69,M,W,Irving,TX,FALSE,attack,,FALSE
+5713,Jose Soto,4/2/20,shot,unarmed,27,M,H,Manchester,CT,TRUE,other,Not fleeing,FALSE
+5714,Leneard Bliss,4/4/20,shot,knife,,M,,Nutter Fort,WV,FALSE,other,Not fleeing,FALSE
+5715,TK TK,4/5/20,shot,gun,59,M,,Hialeah,FL,FALSE,attack,Not fleeing,FALSE
+5716,Carl Manning,4/5/20,shot,unknown weapon,62,M,W,Manchester,NH,FALSE,other,Not fleeing,FALSE
+5718,Michael Leon Hammett,4/5/20,shot,knife,,M,W,Ada,OK,TRUE,attack,Not fleeing,FALSE
+5722,Philip Castonguay,4/5/20,shot,metal pipe,39,M,W,Milford,MA,FALSE,attack,Not fleeing,FALSE
+5723,Richard Lee Kampstra,4/5/20,shot,gun,67,M,W,Melbourne,FL,FALSE,other,,FALSE
+5724,Kelvin Parks,4/6/20,shot,gun,54,M,W,Florence,AL,FALSE,attack,Foot,FALSE
+5725,Yamil Acevedo,4/6/20,shot,vehicle,29,M,H,North Miami Beach,FL,FALSE,attack,Car,FALSE
+5726,Brandon Mark Stokes,4/7/20,shot,gun and car,37,M,,Eatonville,WA,TRUE,attack,Car,FALSE
+5727,Idris Abdus-Salaam,4/7/20,shot,knife,33,M,B,Knoxville,TN,FALSE,other,Not fleeing,FALSE
+5728,Joshua Bacco,4/7/20,shot,knife,31,M,W,El Mirage,AZ,TRUE,attack,Not fleeing,FALSE
+5729,Jacob Matthew Dau,4/7/20,shot,vehicle,38,M,W,Clinton,IA,FALSE,other,Car,TRUE
+5730,Derek T. Swanson,4/7/20,shot,gun,28,M,W,Caddo Parish,LA,FALSE,attack,Other,FALSE
+5731,Dewayne Curtis Lafond,4/7/20,shot,gun,45,M,B,Refugio,TX,FALSE,attack,Not fleeing,FALSE
+5732,Rick Howell,4/8/20,shot,gun,59,M,W,Salisbury,MD,TRUE,attack,Not fleeing,FALSE
+5733,Joshua Dariandre Ruffin,4/8/20,shot,gun,17,M,B,Columbia,SC,FALSE,other,Foot,FALSE
+5734,Zyon Romeir Wyche,4/9/20,shot,gun,19,M,B,Colonial Heights,VA,FALSE,attack,Foot,FALSE
+5735,Kenneth Jeremy Blair,4/9/20,shot,Taser,36,M,W,Winchester,TN,FALSE,attack,Foot,FALSE
+5736,Zachary Shane Gifford,4/9/20,shot,unarmed,39,M,W,Brandon,CO,FALSE,attack,Foot,FALSE
+5737,Matt Goff,4/10/20,shot,gun,,M,W,Klamath Falls,OR,FALSE,attack,Car,FALSE
+5738,Giuseppe Particianone,4/10/20,shot,unarmed,33,M,W,Philadelphia,PA,FALSE,other,Not fleeing,FALSE
+5682,Shawn Lee,4/11/20,shot,machete,48,M,,Ritzville,WA,TRUE,other,Not fleeing,FALSE
+5739,Jonathan Lee Adams,4/11/20,shot,gun,31,M,B,Pottstown,PA,FALSE,attack,Not fleeing,FALSE
+5740,Leah Baker,4/11/20,shot,knife,29,F,W,Jacksonville,FL,FALSE,other,Not fleeing,FALSE
+5741,Errol Bolin,4/11/20,shot,gun,51,M,W,West Terre Haute,IN,FALSE,attack,Not fleeing,FALSE
+5742,TK TK,4/11/20,shot,gun,,M,,Clackamas County,OR,FALSE,attack,,FALSE
+5743,Justin Silvernale,4/12/20,shot,knife,35,M,W,Daly City,CA,TRUE,other,Car,FALSE
+5745,Miguel Gomez,4/12/20,shot,gun,56,M,,Pompano Beach,FL,FALSE,attack,Not fleeing,FALSE
+5676,TK TK,4/13/20,shot,screwdriver,,M,,Jackson,MS,FALSE,attack,Foot,FALSE
+5746,Javier Vidal,4/13/20,shot,gun,36,M,H,Lamont,CA,FALSE,attack,Car,FALSE
+5681,Thomas A. Powell,4/14/20,shot,gun,31,M,W,Old Town,ME,FALSE,attack,Not fleeing,FALSE
+5677,Tony Clements,4/15/20,shot,gun,33,M,,Hubert,NC,FALSE,attack,Not fleeing,FALSE
+5678,Leslie Flynn,4/15/20,shot,gun,39,M,W,Blair,NE,FALSE,attack,Not fleeing,FALSE
+5679,Randy Ashland,4/15/20,shot,gun,58,M,W,Waukesha,WI,FALSE,attack,Not fleeing,FALSE
+5748,Goldie Bellinger,4/15/20,shot,gun,39,M,B,Augusta,GA,TRUE,attack,Not fleeing,FALSE
+5670,Juan Ayon-Barraza,4/16/20,shot,gun and car,24,M,H,Richmond,CA,FALSE,attack,Car,TRUE
+5674,Salvatore Friscia,4/16/20,shot,vehicle,48,M,W,Philipsburg,MT,FALSE,attack,Not fleeing,FALSE
+5747,Anthony Wilson,4/16/20,shot,gun,28,M,,Jefferson City,MO,FALSE,attack,Foot,FALSE
+5749,Jasman Washington,4/16/20,shot,vehicle,31,M,B,Lubbock,TX,FALSE,attack,Car,FALSE
+5675,Derick L. Powe,4/17/20,shot,gun,,M,B,Daphne,AL,TRUE,attack,Not fleeing,FALSE
+5750,Marcus Eugene Epps,4/17/20,shot,knife,43,M,W,Anderson,SC,FALSE,attack,,FALSE
+5671,Steven Taylor,4/18/20,shot,baseball bat,33,M,B,San Leandro,CA,FALSE,other,Not fleeing,FALSE
+5672,Willie J. Hampton,4/18/20,shot,gun,37,M,,Raytown,MO,FALSE,other,Not fleeing,FALSE
+5673,Austin Dean Heights,4/18/20,shot,gun,24,M,W,Mankato,MN,TRUE,attack,Other,FALSE
+5669,Mason Workman,4/19/20,shot,gun,40,M,W,Henderson,NV,FALSE,attack,Not fleeing,TRUE
+5761,Virgill Thrope,4/19/20,shot,gun,28,M,B,Colorado Springs,CO,FALSE,attack,Not fleeing,FALSE
+5756,Chase Rosa,4/21/20,shot,gun,24,M,B,Las Vegas,NV,FALSE,attack,Car,TRUE
+5762,Nicholas Chavez,4/21/20,shot,sharp object,27,M,H,Houston,TX,TRUE,other,Foot,FALSE
+5759,Elmer L. Mack,4/22/20,shot,gun,40,M,B,Florence,SC,FALSE,attack,Not fleeing,FALSE
+5760,Christopher Lawson,4/22/20,shot,gun,31,M,,Springfield,CO,FALSE,attack,Not fleeing,FALSE
+5763,TK TK,4/22/20,shot,knife,,M,,Los Angeles,CA,FALSE,other,Not fleeing,FALSE
+5917,Joshua Johnson,4/22/20,shot,toy weapon,35,M,B,Houston,TX,FALSE,attack,Foot,FALSE
+5758,Luan Agolli,4/23/20,shot,gun,42,M,W,Paterson,NJ,TRUE,attack,Not fleeing,FALSE
+5862,Fred Brown,4/23/20,shot,unarmed,34,M,,North Las Vegas,NV,FALSE,attack,Not fleeing,FALSE
+5751,Michael Ramos,4/24/20,shot,unarmed,42,M,H,Austin,TX,FALSE,undetermined,Car,TRUE
+5752,Timothy Darryl Slides,4/24/20,shot,gun,28,M,,Lenoir,NC,FALSE,attack,Not fleeing,TRUE
+5753,Brandan Reid Nylander,4/24/20,shot,gun,24,M,W,Napa,CA,FALSE,other,Car,FALSE
+5754,Marlon Aaron Bonds,4/24/20,shot,gun,53,M,,Denton,TX,FALSE,attack,,FALSE
+5755,Roy Joiner,4/24/20,shot,gun,67,M,,Adel,GA,FALSE,attack,Not fleeing,FALSE
+5767,Reed Rickabaugh,4/24/20,shot,gun,59,M,W,Hiram,ME,FALSE,attack,Not fleeing,FALSE
+5768,Farron Morris Hammond,4/25/20,shot,gun,61,M,W,Hogansville,GA,FALSE,attack,Not fleeing,FALSE
+5765,Bradley G. Pullman,4/26/20,shot,vehicle,48,M,,Wayne,NJ,FALSE,other,Car,FALSE
+5766,De Quang Tran,4/26/20,shot,gun,26,M,A,La Plata,MD,FALSE,attack,Not fleeing,FALSE
+5775,Nicolas Chavez,4/27/20,shot,sharp object,27,M,,Houston,TX,TRUE,other,Not fleeing,FALSE
+5788,Robert Musser,4/28/20,shot,gun,32,M,W,Buckeye,AZ,FALSE,attack,Car,FALSE
+5786,William E. Abbe,4/28/20,shot and Tasered,sharp object,50,M,W,Vancouver,WA,FALSE,attack,Not fleeing,FALSE
+5784,Jesus Caballero,4/29/20,shot,gun,38,M,H,Las Vegas,NV,FALSE,attack,Car,FALSE
+5785,Artemio Mondragon Alfaro,4/29/20,shot,vehicle,29,M,W,Madera County,CA,FALSE,attack,Other,FALSE
+5787,Malcolm Xavier Ray Williams,4/29/20,shot,gun,27,M,B,Jeffersonville,IN,FALSE,attack,Not fleeing,FALSE
+5782,Daniel Hernandez,4/30/20,shot,gun,,M,,Los Angeles,CA,FALSE,other,Car,FALSE
+5783,Timothy Alan Gilbert,4/30/20,shot,gun,43,M,W,Martin County,KY,FALSE,attack,Car,FALSE
+5776,William Debose,5/1/20,shot,gun,21,M,B,Denver,CO,FALSE,other,Other,TRUE
+5777,Nicholas Bils,5/1/20,shot,unarmed,36,M,W,San Diego,CA,TRUE,other,Foot,FALSE
+5778,Shaun Lee Fuhr,5/1/20,shot,unarmed,24,M,B,Seattle,WA,FALSE,attack,Foot,TRUE
+5779,TK TK,5/1/20,shot,knife,,M,,Hialeah,FL,FALSE,undetermined,Foot,FALSE
+5780,Brent Martin,5/1/20,shot,gun,32,M,B,Little Rock,AR,FALSE,other,Not fleeing,FALSE
+5781,Said Joquin,5/1/20,shot,gun,26,M,B,Lakewood,WA,FALSE,attack,Not fleeing,FALSE
+5769,Michael Ferguson,5/3/20,shot,gun,54,M,W,Fort Lauderdale,FL,FALSE,other,Not fleeing,FALSE
+5770,Kortney Shawn Price,5/3/20,shot,gun,44,M,W,Caldwell County,NC,FALSE,other,Car,TRUE
+5771,Michael Faries,5/3/20,shot,gun,69,M,W,Oakland City,IN,FALSE,other,Not fleeing,FALSE
+5772,Filipe Periera,5/3/20,shot,gun,45,M,W,Jacksonville,FL,FALSE,attack,Not fleeing,FALSE
+5773,Armando Salvatierra,5/3/20,shot,knife,26,M,H,San Jose,CA,FALSE,attack,Not fleeing,TRUE
+5774,Chad Adams,5/3/20,shot,gun,43,M,W,Boerne,TX,FALSE,attack,Not fleeing,FALSE
+5871,Phillip Michael Carney,5/3/20,shot,gun,38,M,W,Overland Park,KS,FALSE,attack,Car,FALSE
+5876,Tyler Wayne Kracht,5/3/20,shot,undetermined,28,M,,Sterling,CO,FALSE,other,Car,FALSE
+5813,Mark Anthony Jones,5/4/20,shot,knife,36,M,,Monterey Park,CA,FALSE,other,Not fleeing,FALSE
+5814,Demontre Bruner,5/4/20,shot,gun,21,M,B,Muskogee,OK,FALSE,attack,Foot,FALSE
+5807,Qavon Webb,5/5/20,shot,gun,23,M,B,Webster Groves,MO,FALSE,attack,Not fleeing,FALSE
+5808,Sandra Lee Harmon,5/5/20,shot,gun,56,F,W,Half Moon Bay,CA,FALSE,attack,Not fleeing,FALSE
+5809,William Shimp,5/5/20,shot,gun,33,M,W,Kansas City,MO,FALSE,attack,Car,FALSE
+5810,Justin Charland,5/5/20,shot,samurai sword,40,M,W,Las Vegas,NV,TRUE,other,Not fleeing,TRUE
+5812,Jah'Sean Iandie Hodge,5/5/20,shot,knife,21,M,B,St. Cloud,FL,FALSE,other,Foot,FALSE
+5811,Alfredo Delarosa,5/5/20,shot and Tasered,Taser,20,M,H,San Antonio,TX,FALSE,attack,,FALSE
+5790,Dreasjon Reed,5/6/20,shot,gun,21,M,B,Indianapolis,IN,FALSE,attack,Car,TRUE
+5802,TK TK,5/6/20,shot,knife,20,M,,Renton,WA,FALSE,other,,FALSE
+5804,James Joseph James,5/6/20,shot,knife,47,M,W,Graham,NC,FALSE,attack,Car,FALSE
+5805,Vincent Ralph Pena,5/6/20,shot,gun,38,M,H,Commerce City,CO,FALSE,attack,Foot,FALSE
+5800,Ruben Escarrega,5/7/20,shot,knife,31,M,H,Long Beach,CA,FALSE,other,Not fleeing,FALSE
+5803,James Pease,5/7/20,shot,gun,51,M,W,Jean,NV,FALSE,attack,Car,FALSE
+5872,McHale Rose,5/7/20,shot,gun,19,M,B,Indianapolis,IN,FALSE,attack,Not fleeing,FALSE
+5887,Daniel Gomez,5/7/20,shot,knife,21,M,H,Wasco,CA,FALSE,attack,Not fleeing,FALSE
+5789,Adrian Medearis,5/8/20,shot,Taser,48,M,B,Houston,TX,FALSE,attack,Not fleeing,TRUE
+5801,Lloyd Nelson,5/8/20,shot,gun,47,M,,Pasadena,CA,FALSE,other,Car,FALSE
+5791,Edgar Melgar,5/9/20,shot,gun,42,M,H,Green Bay,WI,FALSE,attack,Not fleeing,FALSE
+5792,Finan H. Berhe,5/9/20,shot,knife,30,M,B,Silver Spring,MD,FALSE,other,Not fleeing,TRUE
+5794,Yassin Mohamed,5/9/20,shot,rock,47,M,B,Claxton,GA,FALSE,attack,Foot,FALSE
+5796,Darrin Jon Patterson,5/9/20,shot,gun,57,M,W,Idaho Springs,CO,FALSE,attack,Car,FALSE
+5797,Jonathan Carter,5/9/20,shot,unknown weapon,27,M,W,Calypso,NC,FALSE,other,Not fleeing,FALSE
+5798,Jayson Thompson,5/9/20,shot,knife,33,M,,Grand Junction,CO,FALSE,other,,FALSE
+5799,Ward Benjamin McClain,5/9/20,shot,gun,25,M,,Greenville,SC,FALSE,attack,Foot,FALSE
+5795,David Urrea,5/10/20,shot,knife,50,M,W,Joshua Tree,CA,FALSE,other,Car,FALSE
+5793,TK TK,5/11/20,shot,hammer,,M,,Laguna Niguel,CA,FALSE,undetermined,,FALSE
+5818,Gregory Howe,5/12/20,shot,gun,37,M,W,Deltona,FL,FALSE,attack,Car,TRUE
+5835,David Tylek Atkinson,5/13/20,shot,gun,24,M,B,Raleigh,NC,FALSE,attack,Foot,FALSE
+5827,Rayshard Scales,5/14/20,shot,toy weapon,30,M,B,Houston,TX,FALSE,attack,Not fleeing,FALSE
+5831,Robert Tincher,5/14/20,shot,knife,49,M,W,Union Township,OH,TRUE,other,Not fleeing,FALSE
+5834,Anthony Ysaac,5/14/20,shot,gun,26,M,,Los Angeles,CA,FALSE,other,Not fleeing,FALSE
+5890,Donny Leek,5/14/20,shot,gun,47,M,W,San Angelo,TX,TRUE,attack,Not fleeing,FALSE
+5893,Anthony Angel,5/14/20,shot,gun,30,M,,Rapid City,SD,FALSE,attack,Car,FALSE
+5829,Roy Ogden,5/15/20,shot,gun,65,M,,Ladson,SC,FALSE,attack,Car,FALSE
+5830,TK TK,5/15/20,shot,gun,42,M,,San Leandro,CA,FALSE,attack,Not fleeing,FALSE
+5832,Robert Avila,5/15/20,shot,vehicle,31,M,W,Pueblo,CO,FALSE,attack,Car,FALSE
+5833,Hunter Carlstrom,5/15/20,shot,gun,33,M,W,Oxford,MS,FALSE,attack,Car,FALSE
+5823,Robert Johnson,5/16/20,shot,gun,29,M,B,Essex,MD,FALSE,other,Not fleeing,TRUE
+5826,Wallace Dean Staples,5/16/20,shot,gun,42,M,W,Greenville,GA,FALSE,attack,Foot,FALSE
+5828,Randy Roszell Lewis,5/16/20,shot,knife,38,M,B,Houston,TX,FALSE,attack,Not fleeing,TRUE
+5822,Juan M. Montalvo,5/17/20,shot,gun,25,M,H,Pasco,WA,FALSE,attack,,FALSE
+5825,Brian Cooper,5/17/20,shot,gun,49,M,,Germantown,TN,FALSE,other,Not fleeing,FALSE
+5895,Bernard Ledlow,5/17/20,shot,gun,39,M,W,East Baton Rouge,LA,FALSE,attack,Other,FALSE
+5817,Robert Wayne Lawson,5/18/20,shot,gun,64,M,W,St. Francis County,AR,FALSE,attack,Not fleeing,FALSE
+5821,Jacob Bubb,5/18/20,shot,gun,28,M,W,Suring,WI,FALSE,other,Not fleeing,FALSE
+5819,Levi Morse,5/19/20,shot,gun,32,M,W,Chunchula,AL,FALSE,attack,Not fleeing,FALSE
+5820,Wilbon Cleveland Woodard,5/19/20,shot,unknown weapon,69,M,W,Tallahassee,FL,FALSE,other,Not fleeing,FALSE
+5824,Tyler Hays,5/19/20,shot,unarmed,29,M,W,Sale Creek,TN,FALSE,attack,Not fleeing,FALSE
+5816,TK TK,5/19/20,shot and Tasered,knife,,M,,Seattle,WA,FALSE,undetermined,Foot,TRUE
+5815,TK TK,5/20/20,shot,gun,,M,,Viera,FL,TRUE,attack,Not fleeing,FALSE
+5894,Tobby Wiggins,5/20/20,shot,undetermined,45,M,B,Atmore,AL,FALSE,other,Foot,FALSE
+5923,TK TK,5/20/20,shot,undetermined,,M,,Hayward,CA,FALSE,undetermined,,TRUE
+5870,Ryan Whitaker,5/21/20,shot,gun,40,M,W,Phoenix,AZ,FALSE,other,Not fleeing,FALSE
+5892,Willie Lee Quarles,5/21/20,shot,gun,60,M,B,Greenwood,SC,FALSE,attack,Not fleeing,FALSE
+5840,Bernardo Palacios-Carbajal,5/23/20,shot,gun,22,M,H,Salt Lake City,UT,FALSE,other,Foot,TRUE
+5873,Maurice S. Gordon,5/23/20,shot,unarmed,28,M,B,Bass River,NJ,FALSE,other,Not fleeing,FALSE
+5874,Christopher Clark,5/23/20,shot,gun,36,M,,Paterson,NJ,FALSE,undetermined,,FALSE
+5888,Gary Kevin Partin,5/23/20,shot,gun,57,M,,Bell County,KY,FALSE,other,Car,FALSE
+5836,Michael Snyder,5/24/20,shot,gun,44,M,,Bulls Gap,TN,TRUE,attack,Foot,FALSE
+5886,Anthony Grove,5/24/20,shot,gun,52,M,,Flathead County,MT,FALSE,attack,Not fleeing,FALSE
+5837,Gary P. Dorton,5/25/20,shot,knife,43,M,,Jonesborough,TN,TRUE,attack,Not fleeing,FALSE
+5839,Joe Louis Castillanos,5/25/20,shot,gun,38,M,H,Houston,TX,FALSE,attack,Not fleeing,FALSE
+5841,Dion Johnson,5/25/20,shot,undetermined,28,M,B,Phoenix,AZ,FALSE,undetermined,Not fleeing,FALSE
+5884,Reymar Gagarin,5/25/20,shot,toy weapon,35,M,,Modesto,CA,TRUE,attack,Not fleeing,TRUE
+5885,Justin Mink,5/25/20,shot,knife,33,M,,League City,TX,FALSE,attack,Not fleeing,FALSE
+5854,Richard Councilman,5/26/20,shot,toy weapon,,M,,Jamestown,CA,TRUE,other,Not fleeing,FALSE
+5857,Jason Jesse Gallegos,5/26/20,shot,gun,37,M,W,Lansing,MI,TRUE,attack,Not fleeing,TRUE
+5860,Kenneth Bennett,5/26/20,shot,toy weapon,61,M,,Manlius,NY,TRUE,attack,Not fleeing,FALSE
+5864,John Alvarado,5/26/20,shot,gun,22,M,H,Corpus Christi,TX,FALSE,attack,Not fleeing,FALSE
+5875,Tracy Drowne,5/26/20,shot,gun,42,F,W,Orlando,FL,FALSE,attack,Not fleeing,FALSE
+5881,TK TK,5/26/20,shot,gun,,M,,Thornton,CO,FALSE,attack,,FALSE
+5882,Robert Avitia,5/26/20,shot,gun,18,M,H,Los Angeles,CA,FALSE,attack,Foot,FALSE
+5883,John Vik,5/26/20,shot,gun,47,M,,Parma,OH,FALSE,attack,Not fleeing,FALSE
+5861,John Allen Dunaway,5/26/20,shot and Tasered,undetermined,61,M,,Jacksonville,FL,FALSE,attack,Foot,FALSE
+5843,Tony McDade,5/27/20,shot,gun,38,M,B,Tallahassee,FL,FALSE,other,Not fleeing,FALSE
+5847,Joshua Blessed,5/27/20,shot,vehicle and gun,58,M,W,Geneseo,NY,FALSE,attack,Car,FALSE
+5856,Rommel Mendoza,5/27/20,shot,sword,50,M,H,Los Angeles,CA,FALSE,attack,,FALSE
+5858,Hector Hernandez,5/27/20,shot,knife,31,M,H,Fullerton,CA,FALSE,attack,Not fleeing,FALSE
+5859,Alexander Scott,5/27/20,shot,knife,30,M,,Wilburton,OK,FALSE,attack,Not fleeing,FALSE
+5868,TK TK,5/27/20,shot,undetermined,,M,,Luverne,AL,FALSE,undetermined,Not fleeing,FALSE
+5846,Modesto Reyes,5/27/20,shot and Tasered,gun,35,M,B,Jefferson Parish,LA,FALSE,attack,Other,TRUE
+5853,John Benedict Coleman,5/28/20,shot,gun,53,M,W,Ogden,UT,FALSE,attack,Not fleeing,FALSE
+5855,Steven Edward Ferguson,5/28/20,shot,vehicle,31,M,W,Centennial,CO,FALSE,attack,Car,FALSE
+5906,Ruben Smith,5/28/20,shot,gun,35,M,B,North Little Rock,AR,FALSE,other,Not fleeing,FALSE
+5851,TK TK,5/28/20,shot and Tasered,knife,,M,,Washington County,OR,FALSE,other,Not fleeing,TRUE
+5844,Heba Momtaz Al-Azhari,5/29/20,shot,knife,22,F,O,Temple Terrace,FL,TRUE,attack,Not fleeing,FALSE
+5845,TK TK,5/29/20,shot,toy weapon,,M,W,Lancaster,CA,FALSE,attack,,FALSE
+5848,TK TK,5/29/20,shot,gun,32,M,A,San Diego,CA,FALSE,attack,,FALSE
+5849,TK TK,5/29/20,shot,knife,,M,,Philadelphia,PA,FALSE,other,Not fleeing,FALSE
+5850,Momodou Lamin Sisay,5/29/20,shot,gun,39,M,B,Snellville,GA,FALSE,attack,Car,FALSE
+5879,Jarvis Sullivan,5/29/20,shot,vehicle,44,M,B,Yulee,FL,FALSE,attack,Car,FALSE
+5863,Derrick Thompson,5/30/20,shot,gun,46,M,B,Fountain,FL,FALSE,attack,Not fleeing,FALSE
+5852,Israel Berry,5/31/20,shot,undetermined,49,M,W,Portland,OR,FALSE,undetermined,,FALSE
+5878,Thomas Sutherlin,5/31/20,shot and Tasered,gun,32,M,W,Watertown,WI,FALSE,attack,Not fleeing,FALSE
+5842,David McAtee,6/1/20,shot,gun,53,M,B,Louisville,KY,FALSE,attack,,TRUE
+5866,Jorge Gomez,6/1/20,shot,gun,25,M,H,Las Vegas,NV,FALSE,attack,Not fleeing,FALSE
+5867,Ryan Emblem Moore,6/1/20,shot,undetermined,36,M,W,Fayetteville,AR,FALSE,undetermined,Not fleeing,FALSE
+5869,Robert James Lyon,6/2/20,shot,gun,65,M,,Cottonwood,CA,FALSE,other,Not fleeing,FALSE
+5896,Sean Monterrosa,6/2/20,shot,hammer,22,M,H,Vallejo,CA,FALSE,other,Not fleeing,FALSE
+5897,Tyquarn Graves,6/2/20,shot,gun,33,M,B,Brooklyn,NY,FALSE,other,Not fleeing,TRUE
+5898,Mary Lawrence,6/3/20,shot,knife,39,F,W,Poteau,OK,FALSE,other,Not fleeing,FALSE
+5902,Gregory W. Hallback,6/3/20,shot,gun,44,M,W,Aiken,SC,FALSE,attack,Not fleeing,FALSE
+5904,Eric A. Galvan,6/3/20,shot,gun,25,M,H,Corpus Christi,TX,FALSE,attack,Not fleeing,FALSE
+5905,Scott Anderson Hutton,6/3/20,shot,undetermined,36,M,W,Alexander,AR,FALSE,undetermined,Not fleeing,FALSE
+5903,Benjamin Ballard,6/5/20,shot,gun,42,M,W,Mustang,OK,FALSE,attack,Not fleeing,FALSE
+5934,James Pharr,6/5/20,shot,gun,60,M,,Socorro,TX,TRUE,attack,Not fleeing,FALSE
+5899,Kamal Flowers,6/6/20,shot,gun,24,M,B,New Rochelle,NY,FALSE,attack,Foot,FALSE
+5900,Erik Salgado,6/6/20,shot,undetermined,22,M,H,Oakland,CA,FALSE,undetermined,Not fleeing,FALSE
+5901,Gregory Lee Turnure,6/6/20,shot,metal pipe,37,M,,Clarkrange,TN,FALSE,attack,Not fleeing,FALSE
+5907,Jeffrey McClure,6/7/20,shot,pellet gun,26,M,,East Northport,NY,FALSE,other,Not fleeing,FALSE
+5908,Jarrid Hurst,6/7/20,shot,knife,35,M,W,Industry,CA,TRUE,other,Not fleeing,FALSE
+5935,Donald L. Hunter,6/7/20,shot,gun,39,M,,Adrian,MO,FALSE,attack,Not fleeing,FALSE
+5909,Michael Seltzer,6/8/20,shot,gun,81,M,,Las Cruces,NM,TRUE,attack,Not fleeing,FALSE
+5910,Marcus James Uribe,6/9/20,shot,gun,31,M,W,Englewood,CO,FALSE,attack,,FALSE
+5911,Lewis Ruffin,6/9/20,shot,gun,38,M,B,Orlando,FL,FALSE,attack,Not fleeing,FALSE
+5936,Richard L. Mason,6/9/20,shot,gun,59,M,,Bigfork,MT,FALSE,attack,Car,FALSE
+5912,Jerry M. Bethel,6/10/20,shot,gun,59,M,,Weippe,ID,FALSE,attack,,FALSE
+5937,Phillip Dibenedetto,6/10/20,shot,gun,36,M,,Winter Haven,FL,TRUE,attack,Not fleeing,FALSE
+5913,Gregorio Cruz Vanloo,6/11/20,shot,gun,28,M,W,DeKalb County,TN,FALSE,other,Other,FALSE
+5914,Mason James Lira,6/11/20,shot,gun,26,M,W,Paso Robles,CA,TRUE,attack,Foot,FALSE
+5915,Michael Thomas,6/11/20,shot,undetermined,62,M,B,Lancaster,CA,FALSE,undetermined,Not fleeing,FALSE
+5916,Rayshard Brooks,6/12/20,shot,Taser,27,M,B,Atlanta,GA,FALSE,attack,Foot,TRUE
+5925,Caine Van Pelt,6/12/20,shot,gun,23,M,B,Crown Point,IN,FALSE,attack,Car,FALSE
+5918,Hannah R. Fizer,6/13/20,shot,unarmed,25,F,W,Sedalia,MO,FALSE,other,Not fleeing,FALSE
+5921,William Slyter,6/13/20,shot,gun,22,M,W,Kansas City,MO,FALSE,other,Other,FALSE
+5922,Anthony Angel Armenta,6/13/20,shot,toy weapon,21,M,H,San Bernardino,CA,FALSE,attack,Not fleeing,FALSE
+5924,Nicholas Hirsh,6/15/20,shot,gun,31,M,W,Lawrence,KS,FALSE,attack,Car,FALSE
+5926,Brandon Gardner,6/16/20,shot,gun,24,M,,Beach Park,IL,FALSE,attack,Not fleeing,FALSE
+5927,Donald Ward,6/16/20,shot,gun,27,M,,Phoenix,AZ,FALSE,attack,Not fleeing,FALSE
+5928,Terron Jammal Boone,6/17/20,shot,gun,31,M,B,Rosamond,CA,FALSE,attack,Not fleeing,FALSE
+5929,TK TK,6/17/20,shot and Tasered,knife,,M,,Lovelock,NV,FALSE,attack,Car,FALSE
+5930,TK TK,6/18/20,shot,gun,38,M,W,Westminister,CO,FALSE,other,Not fleeing,FALSE
+5932,Kellen Fortune,6/18/20,shot,gun,19,M,,Billings,MT,FALSE,attack,Not fleeing,FALSE
+5933,Andres Guardado,6/18/20,shot,gun,18,M,H,Gardena,CA,FALSE,other,Foot,FALSE
+5931,Henry Barnes,6/19/20,shot,undetermined,25,M,,Jay,OK,FALSE,attack,Foot,FALSE
+5941,Cody W. Cook,6/19/20,shot,gun,24,M,W,Sodus,NY,FALSE,attack,Not fleeing,TRUE
+5940,Michael Torres,6/20/20,shot,machete,35,M,,Lake Charles,LA,FALSE,attack,Not fleeing,FALSE
+5939,Brandeis Codde,6/21/20,shot and Tasered,knife,19,M,,Milpitas,CA,FALSE,attack,Not fleeing,FALSE
+5938,TK TK,6/22/20,shot,gun,,M,,Aurora,CO,FALSE,attack,Not fleeing,TRUE
+5944,TK TK,6/22/20,shot,undetermined,,M,,Palm Desert,CA,FALSE,undetermined,Not fleeing,FALSE
+5945,TK TK,6/22/20,shot,knife,43,M,B,Giddings,TX,FALSE,attack,Not fleeing,FALSE
+5943,Kevin Pulido,6/23/20,shot,gun,43,M,H,Pueblo,CO,FALSE,attack,,FALSE
+5942,TK TK,6/24/20,shot,gun,,F,A,Lake Forest,CA,FALSE,other,Not fleeing,FALSE
+5946,TK TK,6/25/20,shot,knife,,F,,Plano,TX,FALSE,attack,Not fleeing,FALSE
+5948,Robert D'Lon Harris,6/25/20,shot,undetermined,34,M,B,Vinita,OK,FALSE,undetermined,Not fleeing,FALSE
+5949,Martin Humberto Sanchez Fregoso,6/25/20,shot,gun,37,M,H,Atlanta,GA,FALSE,attack,Other,FALSE
+5947,TK TK,6/26/20,shot,gun,,M,W,Auburndale,FL,FALSE,attack,Not fleeing,FALSE
