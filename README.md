@@ -1,4 +1,4 @@
-# police-brutality
+# Digital Humanities Project
 
 ![police](images/police.jpeg)
 
